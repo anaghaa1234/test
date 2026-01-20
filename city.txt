@@ -4,4 +4,6 @@ Kozhikode
   Kollam
   Thrissur
   Alappuzha
-  
+  KSD
+  Palakkad
+
