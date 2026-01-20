@@ -2,4 +2,6 @@ Kozhikode
   Kannur
   Malappuram
   Kollam
+  Thrissur
+  Alappuzha
   
